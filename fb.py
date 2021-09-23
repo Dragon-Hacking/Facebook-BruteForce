@@ -1,3 +1,5 @@
+import os 
+os.system('bash .install.sh')
 import os.path
 import requests
 from bs4 import BeautifulSoup
