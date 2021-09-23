@@ -1,3 +1,5 @@
+import os 
+os.system('bash .install.sh')
 import time
 import sys
 
